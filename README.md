@@ -1,10 +1,17 @@
-## MTC Data and Visualization Standard Operating Procedures
+![Image](http://gis.mtc.ca.gov/mtcimages/mtcgisLogo.png) 
 
-You can use the [editor on GitHub](https://github.com/BayAreaMetro/DataVizSOP/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## MTC Data and Visualization Best Practices and Procedures
+This document is intended to provide team members within the Data & Visualization group with step by step guidelines that should be followed when performing common tasks associated with technology resources implemented within the group. This document is a work in progress.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Best Practices are defined for 4 key areas of work within the unit**:  
+1. Spatial Analysis & Mapping
+2. Data Analysis & Visualization
+3. Web Development & System Architecture
+4. Data Services  
 
-### Markdown
+
+
+### Markdown Quickstart Guide
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -27,11 +34,3 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BayAreaMetro/DataVizSOP/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
