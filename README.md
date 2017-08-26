@@ -13,5 +13,5 @@ This document is intended to provide team members within the Data & Visualizatio
 
 
 #### Markdown Quickstart Guide
-[Check out this MarkDown Cheatsheet to get started](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+1. [Check out this MarkDown Cheatsheet to get started](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  
+2. For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
