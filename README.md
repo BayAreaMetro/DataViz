@@ -1,5 +1,5 @@
-![Image](http://gis.mtc.ca.gov/mtcimages/mtcgisLogo.png) <!-- .element style="height:20%; width:20% -->
 
+<a href="url"><img src="http://gis.mtc.ca.gov/mtcimages/mtcgisLogo.png" align="left" height="64" width="64" ></a>
 ## MTC Data and Visualization Best Practices and Procedures
 This document is intended to provide team members within the Data & Visualization group with step by step guidelines that should be followed when performing common tasks associated with technology resources implemented within the group. This document is a work in progress.  
 
