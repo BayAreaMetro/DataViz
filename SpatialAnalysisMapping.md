@@ -19,6 +19,7 @@
 ## Publishing Content to an External Audience
 
 **Any content that MTC indends to publish to external audiences via ArcGIS Online should be reviwed and shared publicly by the ArcGIS Online content administrator.**    
+
 In the sections following, processes for publishing content to external audiences are documented. These processes are not final, and will likely be updated over time.
 
 Note: Refer to the DataViz ArcGIS Online (AGOL) Organization Strategy document for background information.
