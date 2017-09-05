@@ -16,7 +16,7 @@
 1. Navigate to [Individual Bay Area County Templates](https://mtcdrive.box.com/s/p9qlcusb1cpv2nnp6080zg65oawir7wz) directory on Box
 2.
 
-## Publishing Content to an External Audience
+## Publishing Curated Content to an External Audience
 
 **Any content that MTC indends to publish to external audiences via ArcGIS Online should be reviewed and shared publicly by the ArcGIS Online content administrator.**    
 
@@ -32,6 +32,8 @@ Note: Refer to the DataViz ArcGIS Online (AGOL) Organization Strategy document f
 4. Ensure that web layer meets minimum documentation requirements for public content. See [detailed documentation requirements](https://mtcdrive.app.box.com/file/198481954367)
 5. Ensure that content is tagged appropriately. See [tag strategy](https://mtcdrive.app.box.com/file/198480762097)
 6. Share with public group(s) that best suites the content topic area(s). See [topic areas](https://mtcdrive.app.box.com/file/198481954367)
+
+### Separate this conversation to be specifically about Open Data Layers
 7. Share with Open Data Group (Any content shared with this group will be made available on MTC's Open Data Portal). See [MTC Open Data Layer Library](http://mtc.maps.arcgis.com/home/group.html?id=354e5d5c541c46a985891de9bfaa9703#overview) to see content already shared within the group.
 
 ### Web Maps
