@@ -27,7 +27,7 @@ Note: Refer to the DataViz ArcGIS Online (AGOL) Organization Strategy document f
 ### Web Layers
 
 1. Coordinate with data owner to ensure layer(s) should be shared with a public audience
-2. If layer not already available in Portal, follow guide on [Sharing with ArcGIS Pro](#share-with-arcgis-pro)
+2. If layer not already available in AGOL, follow guide on [Sharing with ArcGIS Pro](#share-with-arcgis-pro)
 3. Update ownership of web layer from current owner to content_MTC (if not already owned by that user)
 4. Ensure that web layer meets minimum documentation requirements for public content. See [detailed documentation requirements](https://mtcdrive.app.box.com/file/198481954367)
 5. Ensure that content is tagged appropriately. See [tag strategy](https://mtcdrive.app.box.com/file/198480762097)
