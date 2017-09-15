@@ -22,9 +22,3 @@ The table of contents below is an attempt to represent and classify spatial anal
 **Technical Resources and Best Practices**
 
   - [AGOL Technical Resources](https://github.com/BayAreaMetro/DataVizSOP/blob/master/SpatialAnalysisMapping/AGOLTechnicalResources.md)
-
-## Commonly Used Spatial Analysis and Mapping Acronyms
-
-|Acronym|Definition   |
-|-------|-------------|
-|AGOL   |ArcGIS Online|  
