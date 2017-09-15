@@ -20,21 +20,21 @@ In the sections following, processes for publishing content to external audience
 1. Coordinate with data owner to ensure layer(s) should be shared with a public audience
 2. If layer not already available in AGOL, follow guide on [Sharing with ArcGIS Pro](#share-with-arcgis-pro)
 3. Update ownership of web layer from current owner to content_MTC (if not already owned by that user)
-4. Ensure that web layer meets minimum documentation requirements for public content. See [detailed documentation requirements](https://mtcdrive.app.box.com/file/198481954367)
+4. Ensure that web layer meets minimum documentation requirements for curated content. See [detailed documentation requirements](https://github.com/BayAreaMetro/DataVizSOP/blob/master/SpatialAnalysisMapping/Documentation.md#detailed-documentation)
 5. Ensure that content is tagged appropriately. See [tag strategy](https://mtcdrive.app.box.com/file/198480762097)
 6. Share with public group(s) that best suites the content topic area(s). See [topic areas](https://mtcdrive.app.box.com/file/198481954367)
 
 ### Web Maps
 
 1. Ensure web layers used in web map have followed the process outlined in the [Web Layers Section](#web-layers)
-2. Ensure web map is documented, following the basic documentation requirements. See [basic documentation requirements](https://mtcdrive.app.box.com/file/198481954367)
+2. Ensure web map is documented, following the basic documentation requirements. See [basic documentation requirements](https://github.com/BayAreaMetro/DataVizSOP/blob/master/SpatialAnalysisMapping/Documentation.md#basic-documentation)
     - Detailed documentation not necessary for web maps as layers supporting the web map should be well - documented.
 3. Ensure that content is tagged appropriately. See [tag strategy](https://mtcdrive.app.box.com/file/198480762097)
 4. Share with [MTC Map Gallery Groups](http://mtc.maps.arcgis.com/home/group.html?id=4bb2944ff35348c3847859b48d28336d#overview)
 
 ### PDF Maps
 
-1. Ensure web map is documented, following the basic documentation requirements. See [basic documentation requirements](https://mtcdrive.app.box.com/file/198481954367)
+1. Ensure web map is documented, following the basic documentation requirements. See [basic documentation requirements](https://github.com/BayAreaMetro/DataVizSOP/blob/master/SpatialAnalysisMapping/Documentation.md#basic-documentation)
 2. Ensure that content is tagged appropriately. See [tag strategy](https://mtcdrive.app.box.com/file/198480762097)
 3. Share with [MTC Map Gallery Groups](http://mtc.maps.arcgis.com/home/group.html?id=4bb2944ff35348c3847859b48d28336d#overview)
 
