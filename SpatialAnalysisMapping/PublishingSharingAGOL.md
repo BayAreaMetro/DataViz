@@ -45,7 +45,7 @@ In the sections following, processes for publishing content to external audience
 
 # Publishing Content to MTC's Open Data Portal 
 
-1. Ensure content meets minimum requirements for [publishing curated content to an external audience](#publishing-curated-content-to-an-external-auidence-with-arcgis-online)
+1. Ensure content meets minimum requirements for [publishing curated content to an external audience](#publishing-curated-content-to-an-external-audience-with-arcgis-online)
 2. If publishing a web layer, ensure coordinate reference system is set to WGS84 (EPSG/SRID: 4326) 
 3. Tag with appropriate open data category tag - **Note: if content not tagged, content will not be organized by category on open data site**
 
