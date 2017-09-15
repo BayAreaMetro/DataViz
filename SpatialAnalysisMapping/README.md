@@ -15,7 +15,7 @@ The table of contents below is an attempt to represent and classify spatial anal
 
 [Mapping and Cartography]()
 
-    - [Getting Started]()
+    - [Getting Started - Software and Resources]()
     - [Map Creation]()
 
 [Technical Resources and Best Practices]()

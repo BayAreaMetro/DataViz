@@ -1,21 +1,18 @@
 
 <a href="url"><img src="http://gis.mtc.ca.gov/mtcimages/mtcgisLogo.png" align="left" height="64" width="64" ></a>
-# Spatial Analysis & Mapping Best Practices
+# Publishing and Sharing Content with ArcGIS Online
 
 ## Table of contents
-- [Map Preparation](#map-preparation)
 - [Publishing Content to an External Audience](#publishing-content-to-an-external-audience)
     - [Web Layers](#web-layers)
     - [Web Maps](#web-maps)
-- [AGOL Techical Resources](#agol-technical-resources)
+    - [PDF Maps](#pdf-maps)
 
-## Publishing Curated Content to an External Audience
+## Publishing Curated Content to an External Audience with ArcGIS Online
 
 **Any content that MTC indends to publish to external audiences via ArcGIS Online should be reviewed and shared publicly by the ArcGIS Online content administrator.**    
 
 In the sections following, processes for publishing content to external audiences are documented. These processes are not final, and will likely be updated over time.
-
-Note: Refer to the DataViz ArcGIS Online (AGOL) Organization Strategy document for background information.
 
 ### Web Layers
 
