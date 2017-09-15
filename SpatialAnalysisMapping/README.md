@@ -1,4 +1,5 @@
 <a href="url"><img src="http://gis.mtc.ca.gov/mtcimages/mtcgisLogo.png" align="left" height="64" width="64" ></a>
+
 # Spatial Analysis & Mapping
 
 This page is intended to be a resource to the Data Visualization team when beginning a spatial analysis or mapping project. This sub-repository contains standard operating proceedures (SOPs), best-practices, guidelines, and technical resources that should guide and inform our work. 
@@ -11,7 +12,7 @@ The table of contents below is an attempt to represent and classify spatial anal
 
   - [Publishing Intermediate or Draft Content to AGOL](tbd)
   - [Publishing and Sharing Content with Portal](tbd)
-  - [Publishing and Sharing Content with AGOL](https://github.com/BayAreaMetro/DataVizSOP/blob/master/SpatialAnalysisMapping/PublishingSharingAGOL.md#publishing-curated-content-to-an-external-audience-with-arcgis-online)
+  - [Publishing and Sharing Content with AGOL](https://github.com/BayAreaMetro/DataVizSOP/blob/master/SpatialAnalysisMapping/PublishingSharingAGOL.md#publishing-and-sharing-content-with-ArcGIS-online)
 
 **Mapping and Cartography**
 
