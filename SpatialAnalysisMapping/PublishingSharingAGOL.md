@@ -1,5 +1,6 @@
 
 <a href="url"><img src="http://gis.mtc.ca.gov/mtcimages/mtcgisLogo.png" align="left" height="64" width="64" ></a>
+
 # Publishing and Sharing Content with ArcGIS Online
 
 ## Table of contents
@@ -23,9 +24,6 @@ In the sections following, processes for publishing content to external audience
 5. Ensure that content is tagged appropriately. See [tag strategy](https://mtcdrive.app.box.com/file/198480762097)
 6. Share with public group(s) that best suites the content topic area(s). See [topic areas](https://mtcdrive.app.box.com/file/198481954367)
 
-### Separate this conversation to be specifically about Open Data Layers
-7. Share with Open Data Group (Any content shared with this group will be made available on MTC's Open Data Portal). See [MTC Open Data Layer Library](http://mtc.maps.arcgis.com/home/group.html?id=354e5d5c541c46a985891de9bfaa9703#overview) to see content already shared within the group.
-
 ### Web Maps
 
 1. Ensure web layers used in web map have followed the process outlined in the [Web Layers Section](#web-layers)
@@ -39,3 +37,16 @@ In the sections following, processes for publishing content to external audience
 1. Ensure web map is documented, following the basic documentation requirements. See [basic documentation requirements](https://mtcdrive.app.box.com/file/198481954367)
 2. Ensure that content is tagged appropriately. See [tag strategy](https://mtcdrive.app.box.com/file/198480762097)
 3. Share with [MTC Map Gallery Groups](http://mtc.maps.arcgis.com/home/group.html?id=4bb2944ff35348c3847859b48d28336d#overview)
+
+# Publishing Content to MTC's Open Data Portal 
+
+1. Ensure content meets minimum requirements for [publishing curated content to an external audience](#publishing-curated-content-to-an-external-auidence-with-arcgis-online)
+2. If publishing a web layer, ensure coordinate reference system is set to WGS84 (EPSG/SRID: 4326) 
+3. Tag with appropriate open data category tag - **Note: if content not tagged, content will not be organized by category on open data site**
+
+    | Open Data Categories |               |          |
+    |----------------------|---------------|----------|
+    | Transportation       | Demographic   | Policy   |
+    | Transportation       | Environmental | Projects |
+
+4. Share with Open Data Group (Any content shared with this group will be made available on MTC's Open Data Portal). See [MTC Open Data Layer Library](http://mtc.maps.arcgis.com/home/group.html?id=354e5d5c541c46a985891de9bfaa9703#overview) to see content already shared within the group.
