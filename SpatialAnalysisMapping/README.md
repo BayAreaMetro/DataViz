@@ -9,18 +9,18 @@ The table of contents below is an attempt to represent and classify spatial anal
 
 **Data and Content Management**
 
-    - [Publishing Intermediate or Draft Content to AGOL]()
-    - [Publishing Curated Content to Portal]()
-    - [Publishing Curated Content to an External Audience with AGOL](https://github.com/BayAreaMetro/DataVizSOP/blob/master/SpatialAnalysisMapping/PublishingSharingAGOL.md#publishing-curated-content-to-an-external-audience-with-arcgis-online)
+  - [Publishing Intermediate or Draft Content to AGOL]()
+  - [Publishing Curated Content to Portal]()
+  - [Publishing Curated Content to an External Audience with AGOL](https://github.com/BayAreaMetro/DataVizSOP/blob/master/SpatialAnalysisMapping/PublishingSharingAGOL.md#publishing-curated-content-to-an-external-audience-with-arcgis-online)
 
 **Mapping and Cartography**
 
-    - [Getting Started - Mapping Software and Resources](https://github.com/BayAreaMetro/DataVizSOP/blob/master/SpatialAnalysisMapping/GettingStartedMappingSoftwareResources.md)
-    - [Map Creation](https://github.com/BayAreaMetro/DataVizSOP/blob/master/SpatialAnalysisMapping/MapCreation.md)
+  - [Getting Started - Mapping Software and Resources](https://github.com/BayAreaMetro/DataVizSOP/blob/master/SpatialAnalysisMapping/GettingStartedMappingSoftwareResources.md)
+  - [Map Creation](https://github.com/BayAreaMetro/DataVizSOP/blob/master/SpatialAnalysisMapping/MapCreation.md)
 
 **Technical Resources and Best Practices**
 
-    - [AGOL Technical Resources](https://github.com/BayAreaMetro/DataVizSOP/blob/master/SpatialAnalysisMapping/AGOLTechnicalResources.md)
+  - [AGOL Technical Resources](https://github.com/BayAreaMetro/DataVizSOP/blob/master/SpatialAnalysisMapping/AGOLTechnicalResources.md)
 
 ## Commonly Used Spatial Analysis and Mapping Acronyms
 
