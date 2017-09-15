@@ -9,13 +9,6 @@
     - [Web Maps](#web-maps)
 - [AGOL Techical Resources](#agol-technical-resources)
 
-## Map Preparation
-
-### Create 11 x 17 Map Book (Tabloid) - County Scale
-
-1. Navigate to [Individual Bay Area County Templates](https://mtcdrive.box.com/s/p9qlcusb1cpv2nnp6080zg65oawir7wz) directory on Box
-2.
-
 ## Publishing Curated Content to an External Audience
 
 **Any content that MTC indends to publish to external audiences via ArcGIS Online should be reviewed and shared publicly by the ArcGIS Online content administrator.**    
