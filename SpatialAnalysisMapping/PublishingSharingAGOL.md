@@ -3,7 +3,7 @@
 # Publishing and Sharing Content with ArcGIS Online
 
 ## Table of contents
-- [Publishing Content to an External Audience](#publishing-content-to-an-external-audience)
+- [Publishing Curated Content to an External Audience](#publishing-curated-content-to-an-external-audience)
     - [Web Layers](#web-layers)
     - [Web Maps](#web-maps)
     - [PDF Maps](#pdf-maps)
