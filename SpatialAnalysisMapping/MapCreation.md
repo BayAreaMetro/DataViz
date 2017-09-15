@@ -1,4 +1,5 @@
-# Map Preparation
+<a href="url"><img src="http://gis.mtc.ca.gov/mtcimages/mtcgisLogo.png" align="left" height="64" width="64" ></a>
+# Map Creation
 
 This page is intended to be used as a resource when getting started with a mapping project. This page is very very drafty and is mostly a placeholder currently. Stay tuned...
 

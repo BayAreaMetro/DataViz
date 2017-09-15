@@ -7,20 +7,20 @@ The table of contents below is an attempt to represent and classify spatial anal
 
 ## Table of Contents
 
-[Data and Content Management]()
+**Data and Content Management**
 
     - [Publishing Intermediate or Draft Content to AGOL]()
     - [Publishing Curated Content to Portal]()
-    - [Publishing Content to AGOL]()
+    - [Publishing Curated Content to an External Audience with AGOL](https://github.com/BayAreaMetro/DataVizSOP/blob/master/SpatialAnalysisMapping/PublishingSharingAGOL.md#publishing-curated-content-to-an-external-audience-with-arcgis-online)
 
-[Mapping and Cartography]()
+**Mapping and Cartography**
 
-    - [Getting Started - Software and Resources]()
-    - [Map Creation]()
+    - [Getting Started - Mapping Software and Resources](https://github.com/BayAreaMetro/DataVizSOP/blob/master/SpatialAnalysisMapping/GettingStartedMappingSoftwareResources.md)
+    - [Map Creation](https://github.com/BayAreaMetro/DataVizSOP/blob/master/SpatialAnalysisMapping/MapCreation.md)
 
-[Technical Resources and Best Practices]()
+**Technical Resources and Best Practices**
 
-    - [AGOL Technical Resources]()
+    - [AGOL Technical Resources](https://github.com/BayAreaMetro/DataVizSOP/blob/master/SpatialAnalysisMapping/AGOLTechnicalResources.md)
 
 ## Commonly Used Spatial Analysis and Mapping Acronyms
 

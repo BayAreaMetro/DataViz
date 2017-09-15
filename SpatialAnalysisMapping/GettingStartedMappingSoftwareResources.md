@@ -1,5 +1,5 @@
 <a href="url"><img src="http://gis.mtc.ca.gov/mtcimages/mtcgisLogo.png" align="left" height="64" width="64" ></a>
-#Getting Started - Mapping Software and Resources
+# Getting Started - Mapping Software and Resources
 
 1. Install Adobe Creative Cloud Desktop App
 
