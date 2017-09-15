@@ -18,11 +18,16 @@ In the sections following, processes for publishing content to external audience
 ### Web Layers
 
 1. Coordinate with data owner to ensure layer(s) should be shared with a public audience
-2. If layer not already available in AGOL, follow guide on [Sharing with ArcGIS Pro](#share-with-arcgis-pro)
+2. If layer not already available in AGOL, follow guide on [Sharing with ArcGIS Pro](https://github.com/BayAreaMetro/DataVizSOP/blob/master/SpatialAnalysisMapping/AGOLTechnicalResources.md#publishing-web-layers-to-agol-with-arcgis-pro)
 3. Update ownership of web layer from current owner to content_MTC (if not already owned by that user)
 4. Ensure that web layer meets minimum documentation requirements for curated content. See [detailed documentation requirements](https://github.com/BayAreaMetro/DataVizSOP/blob/master/SpatialAnalysisMapping/Documentation.md#detailed-documentation)
 5. Ensure that content is tagged appropriately. See [tag strategy](https://mtcdrive.app.box.com/file/198480762097)
-6. Share with public group(s) that best suites the content topic area(s). See [topic areas](https://mtcdrive.app.box.com/file/198481954367)
+6. Share with public group(s) that best suites the content topic area(s). 
+
+   | Content Topic Areas  |               |          |
+   |----------------------|---------------|----------|
+   | Transportation       | Demographic   | Policy   |
+   | Transportation       | Environmental | Projects |
 
 ### Web Maps
 
@@ -44,9 +49,9 @@ In the sections following, processes for publishing content to external audience
 2. If publishing a web layer, ensure coordinate reference system is set to WGS84 (EPSG/SRID: 4326) 
 3. Tag with appropriate open data category tag - **Note: if content not tagged, content will not be organized by category on open data site**
 
-    | Open Data Categories |               |          |
-    |----------------------|---------------|----------|
-    | Transportation       | Demographic   | Policy   |
-    | Transportation       | Environmental | Projects |
+   | Open Data Categories |               |          |
+   |----------------------|---------------|----------|
+   | Transportation       | Demographic   | Policy   |
+   | Transportation       | Environmental | Projects |
 
 4. Share with Open Data Group (Any content shared with this group will be made available on MTC's Open Data Portal). See [MTC Open Data Layer Library](http://mtc.maps.arcgis.com/home/group.html?id=354e5d5c541c46a985891de9bfaa9703#overview) to see content already shared within the group.
