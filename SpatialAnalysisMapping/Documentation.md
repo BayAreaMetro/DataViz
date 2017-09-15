@@ -1,3 +1,5 @@
+<a href="url"><img src="http://gis.mtc.ca.gov/mtcimages/mtcgisLogo.png" align="left" height="64" width="64" ></a>
+
 # Documenting Content 
 
 The purpose of this page is to define types of documentation and documentation requirements for each type. Content documentation can be split into two types: **basic documentation** and **detailed documentation**. 
@@ -19,54 +21,58 @@ MTC has enabled metadata for all content published to portal or AGOL. When the m
 **Titles and Dates** 
 
 ***Titles and Dates***
-    - Creation Date
-    - Publication Date
-    - Revision Date 
+
+- Creation Date
+- Publication Date
+- Revision Date 
 
 ***Contact***
-    - MTC Address
-    - GIS Content Curator phone number
-    - Online resource
-        - DataViz website 
-    Hours and Instructions
-        - Hours of Service 
+
+- MTC Address
+- GIS Content Curator phone number
+- Online resource
+    - DataViz website 
+- Hours and Instructions
+    - Hours of Service 
 
 **Citation**
-    - Details
-        - Description
-            - Abstract
-                - Link to github docs (if any)
-                - If link to github unavailable: 
-                    - Source: Where the data was accessed and who is responsible for it
-                    - Purpose: Why was the data created? 
-                    - Methodology: how was this content created?
-            - Summary: A one-line description of the content
-            - Credits: Who should be credited for providing information which lead to creation of content 
-    - Keywords
-        - Tags
-    - Extent
-        - Geographic (will auto populate)
-    - Contact (Should be one added for content owner and one added for content publisher)
-        - Contact Name
-            - Individual Name
-            - Organization Name
-            - Role (Owner / Publisher)
-        - Contact Information 
-            - Email 
-            - Address
-            - Phone
-            - Online Resource (Link to pertainent website / link to DataViz website)
-            - Hours & Instructions
-       - Maintenance 
-           - Frequency
-       - Constraints
-           - General Constraints 
+
+- Details
+    - Description
+        - Abstract
+            - Link to github docs (if any)
+            - If link to github unavailable: 
+                - Source: Where the data was accessed and who is responsible for it
+                - Purpose: Why was the data created? 
+                - Methodology: how was this content created?
+        - Summary: A one-line description of the content
+        - Credits: Who should be credited for providing information which lead to creation of content 
+- Keywords
+    - Tags
+- Extent
+    - Geographic (will auto populate)
+- Contact (Should be one added for content owner and one added for content publisher)
+    - Contact Name
+        - Individual Name
+        - Organization Name
+        - Role (Owner / Publisher)
+    - Contact Information 
+        - Email 
+        - Address
+        - Phone
+        - Online Resource (Link to pertainent website / link to DataViz website)
+        - Hours & Instructions
+   - Maintenance 
+       - Frequency
+   - Constraints
+       - General Constraints 
 
 **Resource**
-    - Distribution
-        - Distribution Information (will auto populate) 
-    - Fields
-        - Domain (if field contains coded values, for instances)
+
+- Distribution
+    - Distribution Information (will auto populate) 
+- Fields
+    - Domain (if field contains coded values, for instances)
 
 
 
