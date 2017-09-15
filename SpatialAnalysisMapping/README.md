@@ -10,8 +10,8 @@ The table of contents below is an attempt to represent and classify spatial anal
 **Data and Content Management**
 
   - [Publishing Intermediate or Draft Content to AGOL](tbd)
-  - [Publishing Curated Content to Portal](tbd)
-  - [Publishing Curated Content to an External Audience with AGOL](https://github.com/BayAreaMetro/DataVizSOP/blob/master/SpatialAnalysisMapping/PublishingSharingAGOL.md#publishing-curated-content-to-an-external-audience-with-arcgis-online)
+  - [Publishing and Sharing Content with Portal](tbd)
+  - [Publishing and Sharing Content with AGOL](https://github.com/BayAreaMetro/DataVizSOP/blob/master/SpatialAnalysisMapping/PublishingSharingAGOL.md#publishing-curated-content-to-an-external-audience-with-arcgis-online)
 
 **Mapping and Cartography**
 
