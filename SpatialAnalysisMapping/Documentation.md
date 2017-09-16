@@ -7,12 +7,17 @@ The purpose of this page is to define types of documentation and documentation r
 ## Basic Documentation 
 
 - Title: State what it is.  Often times, this will simply be the name of the layer, or association of layers.
+    - **Draft Content**
+        - Include "draft" in the title: "My Web Map (draft)"
+    - **Final Content**
+        - Remove "draft" from title: "My Web Map"
 - Summary: A one-line description of the content
 - Description: Additional information that supports summary. 
     - Link to project documentation (if any). 
     - Project or program content was created to support.  
     - Content owner - the person responsible for the project or program the content supports. 
-- Tags: Related keywords to support content discovery (Tagging section for more details)
+- Tags: Related keywords to support content discovery See: [Content Tagging Strategy](https://mtcdrive.app.box.com/file/198480762097)
+    - **If content is considered draft include "draft" as a tag** 
 
 ## Detailed Documentation
 
@@ -48,7 +53,7 @@ MTC has enabled metadata for all content published to portal or AGOL. When the m
         - Summary: A one-line description of the content
         - Credits: Who should be credited for providing information which lead to creation of content 
 - Keywords
-    - Tags
+    - Tags- See: [Content Tagging Strategy](https://mtcdrive.app.box.com/file/198480762097)
 - Extent
     - Geographic (will auto populate)
 - Contact (Should be one added for content owner and one added for content publisher)
