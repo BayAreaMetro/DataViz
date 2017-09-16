@@ -38,11 +38,18 @@ Broadcast Group – for sharing finished content with an identified audience (ev
 ### Web Layers
 
 1. Publish web layer to AGOL through ArcGIS Pro, following guide on [sharing with ArcGIS Pro](https://github.com/BayAreaMetro/DataVizSOP/blob/master/SpatialAnalysisMapping/AGOLTechnicalResources.md#publishing-web-layers-to-agol-with-arcgis-pro)
-2. Name, summary, and tags are required to be filled out when publishing to AGOL from ArcGIS Pro. Following the basic documentation requirements guidelines. See [basic documentation requirements](https://github.com/BayAreaMetro/DataVizSOP/blob/master/SpatialAnalysisMapping/Documentation.md#basic-documentation)
-3. To share with a only a select group of stakeholders, share content to a **working group only**. Don't share with **organization** or **public**. If an appropriate working group does not exist, create one following guidelines for [creating working groups](#create-working-group) 
-4. To share with a wider audience, or a stakeholder not part of the MTC AGOL Organization, share content to **organization**, **public**, or both if necessary. 
+2. Ensure web map meets minimum basic documentation requirements for draft content. See [basic documentation requirements](https://github.com/BayAreaMetro/DataVizSOP/blob/master/SpatialAnalysisMapping/Documentation.md#basic-documentation) 
+    - Name, summary, and tag field are required to be completed before you can publishing to AGOL from ArcGIS Pro.
+3. Select sharing options:  
+    - To share with **only** a select group of stakeholders, share content to a **working group only**. Don't share with **organization** or **public**. If an appropriate working group does not exist, create one following guidelines for [creating working groups](#create-working-group) 
+    - To share with a wider audience, or a stakeholder not part of the MTC AGOL Organization, share content to **organization**, **public**, or both if necessary. 
 
 ### Web Maps 
+
+1. Ensure web map meets minimum basic documentation requirements for draft content. See [basic documentation requirements](https://github.com/BayAreaMetro/DataVizSOP/blob/master/SpatialAnalysisMapping/Documentation.md#basic-documentation)
+2. Select sharing options:  
+    - To share with **only** a select group of stakeholders, share content to a **working group only**. Don't share with **organization** or **public**. If an appropriate working group does not exist, create one following guidelines for [creating working groups](#create-working-group) 
+    - To share with a wider audience, or a stakeholder not part of the MTC AGOL Organization, share content to **organization**, **public**, or both if necessary. 
 
 ## Publishing Curated Content to an External Audience with ArcGIS Online
 
