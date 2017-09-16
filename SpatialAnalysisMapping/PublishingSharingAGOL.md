@@ -7,10 +7,9 @@
 - [Creating Groups](#creating-groups)
     - [Create Working Groups](#create-working-groups)
     - [Create Broadcast Groups](#create-broadcast-groups)
-- [Publishing and Sharing Content](#publishing-and-sharing-content)
-    - [Publishing draft or intermediate content to Internal or External Audiences](#publishing-draft-or-intermediate-content-to-internal-or-external-audiences)
-    - [Publishing Curated Content to an External Audience](#publishing-curated-content-to-an-external-audience)
-    - [Publishing Content to MTC's Open Data Portal](#publishing-content-to-mtcs-open-data-portal)
+- [Publishing draft or intermediate content to Internal or External Audiences](#publishing-draft-or-intermediate-content-to-internal-or-external-audiences)
+- [Publishing Curated Content to an External Audience](#publishing-curated-content-to-an-external-audience)
+- [Publishing Content to MTC's Open Data Portal](#publishing-content-to-mtcs-open-data-portal)
 
 ## Creating Groups 
 
@@ -32,27 +31,26 @@ Broadcast Group – for sharing finished content with an identified audience (ev
    | Transportation       | Environmental | Projects |
 
 **transfer content from strategy doc***
+ 
 
-## Publishing and Sharing Content 
+## Publishing Draft or Intermediate Content to Internal or External Audiences
 
-### Publishing Draft or Intermediate Content to Internal or External Audiences
-
-#### Web Layers
+### Web Layers
 
 1. Publish web layer to AGOL through ArcGIS Pro, following guide on [sharing with ArcGIS Pro](https://github.com/BayAreaMetro/DataVizSOP/blob/master/SpatialAnalysisMapping/AGOLTechnicalResources.md#publishing-web-layers-to-agol-with-arcgis-pro)
 2. Name, summary, and tags are required to be filled out when publishing to AGOL from ArcGIS Pro. Following the basic documentation requirements guidelines. See [basic documentation requirements](https://github.com/BayAreaMetro/DataVizSOP/blob/master/SpatialAnalysisMapping/Documentation.md#basic-documentation)
 3. To share with a only a select group of stakeholders, share content to a **working group only**. Don't share with **organization** or **public**. If an appropriate working group does not exist, create one following guidelines for [creating working groups](#create-working-group) 
 4. To share with a wider audience, or a stakeholder not part of the MTC AGOL Organization, share content to **organization**, **public**, or both if necessary. 
 
-#### Web Maps 
+### Web Maps 
 
-### Publishing Curated Content to an External Audience with ArcGIS Online
+## Publishing Curated Content to an External Audience with ArcGIS Online
 
 **Any content that MTC indends to publish to external audiences via ArcGIS Online should be reviewed and shared publicly by the ArcGIS Online content administrator.**    
 
 In the sections following, processes for publishing content to external audiences are documented. These processes are not final, and will likely be updated over time.
 
-#### Web Layers
+### Web Layers
 
 1. Coordinate with data owner to ensure layer(s) should be shared with a public audience
 2. If layer not already available in AGOL, follow guide on [sharing with ArcGIS Pro](https://github.com/BayAreaMetro/DataVizSOP/blob/master/SpatialAnalysisMapping/AGOLTechnicalResources.md#publishing-web-layers-to-agol-with-arcgis-pro)
@@ -66,7 +64,7 @@ In the sections following, processes for publishing content to external audience
    | Transportation       | Demographic   | Policy   |
    | Transportation       | Environmental | Projects |
 
-#### Web Maps
+### Web Maps
 
 1. Ensure web layers used in web map have followed the process outlined in the [Web Layers Section](#web-layers)
 2. Ensure web map is documented, following the basic documentation requirements. See [basic documentation requirements](https://github.com/BayAreaMetro/DataVizSOP/blob/master/SpatialAnalysisMapping/Documentation.md#basic-documentation)
@@ -74,13 +72,13 @@ In the sections following, processes for publishing content to external audience
 3. Ensure that content is tagged appropriately. See [tag strategy](https://mtcdrive.app.box.com/file/198480762097)
 4. Share with [MTC Map Gallery Groups](http://mtc.maps.arcgis.com/home/group.html?id=4bb2944ff35348c3847859b48d28336d#overview)
 
-#### PDF Maps
+### PDF Maps
 
 1. Ensure web map is documented, following the basic documentation requirements. See [basic documentation requirements](https://github.com/BayAreaMetro/DataVizSOP/blob/master/SpatialAnalysisMapping/Documentation.md#basic-documentation)
 2. Ensure that content is tagged appropriately. See [tag strategy](https://mtcdrive.app.box.com/file/198480762097)
 3. Share with [MTC Map Gallery Groups](http://mtc.maps.arcgis.com/home/group.html?id=4bb2944ff35348c3847859b48d28336d#overview)
 
-### Publishing Content to MTC's Open Data Portal 
+## Publishing Content to MTC's Open Data Portal 
 
 1. Ensure content meets minimum requirements for [publishing curated content to an external audience](#publishing-curated-content-to-an-external-audience-with-arcgis-online)
 2. If publishing a web layer, ensure coordinate reference system is set to WGS84 (EPSG/SRID: 4326) 
