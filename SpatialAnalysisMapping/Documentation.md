@@ -17,6 +17,7 @@ The purpose of this page is to define types of documentation and documentation r
     - Project or program content was created to support.  
     - Content owner - the person responsible for the project or program the content supports. 
     - Source Files (if available): Link to source files used to generate content. This will generally apply only to static content such as images or pdfs. 
+- Credits (Attribution): Acknowledge the source of the content. (ex. 2015 American Community Survey (ACS); 2012 Federal Highway Administration - Freight Analysis Framework) 
 - Tags: Related keywords to support content discovery See: [Content Tagging Strategy](https://mtcdrive.app.box.com/file/198480762097)
     - **If content is considered draft include "draft" as a tag** 
 
@@ -52,7 +53,7 @@ MTC has enabled metadata for all content published to portal or AGOL. When the m
                 - Purpose: Why was the data created? 
                 - Methodology: how was this content created?
         - Summary: A one-line description of the content
-        - Credits: Who should be credited for providing information which lead to creation of content 
+        - Acknowledge the source of the content. (ex. 2015 American Community Survey (ACS); 2012 Federal Highway Administration - Freight Analysis Framework)  
 - Keywords
     - Tags- See: [Content Tagging Strategy](https://mtcdrive.app.box.com/file/198480762097)
 - Extent
