@@ -7,8 +7,8 @@
 - [Creating Groups](#creating-groups)
     - [Create Working Groups](#create-working-groups)
     - [Create Broadcast Groups](#create-broadcast-groups)
-- [Publishing draft or intermediate content to Internal or External Audiences](#publishing-draft-or-intermediate-content-to-internal-or-external-audiences)
-- [Publishing Curated Content to an External Audience](#publishing-curated-content-to-an-external-audience-with-arcgis-online)
+- [Publishing draft or intermediate content to Internal or External Audiences with](#publishing-draft-or-intermediate-content-to-internal-or-external-audiences)
+- [Publishing Curated Content to an External Audience](#publishing-curated-content-to-an-external-audience)
 - [Publishing Content to MTC's Open Data Portal](#publishing-content-to-mtcs-open-data-portal)
 
 ## Creating Groups 
@@ -51,7 +51,7 @@ Broadcast Group – for sharing finished content with an identified audience (ev
     - To share with **only** a select group of stakeholders, share content to a **working group only**. Don't share with **organization** or **public**. If an appropriate working group does not exist, create one following guidelines for [creating working groups](#create-working-group) 
     - To share with a wider audience, or a stakeholder not part of the MTC AGOL Organization, share content to **organization**, **public**, or both if necessary. 
 
-## Publishing Curated Content to an External Audience with ArcGIS Online
+## Publishing Curated Content to an External Audience
 
 **Any content that MTC indends to publish to external audiences via ArcGIS Online should be reviewed and shared publicly by the ArcGIS Online content administrator.**    
 
