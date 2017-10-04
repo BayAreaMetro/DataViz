@@ -16,9 +16,9 @@ The purpose of this page is to define types of documentation and documentation r
     - Link to project documentation (if any). 
     - Project or program content was created to support.  
     - Content owner - the person responsible for the project or program the content supports. 
+    - Source Files (if available): Link to source files used to generate content. This will generally apply only to static content such as images or pdfs. 
 - Tags: Related keywords to support content discovery See: [Content Tagging Strategy](https://mtcdrive.app.box.com/file/198480762097)
     - **If content is considered draft include "draft" as a tag** 
-- Source Files (if available): Link to source files used to generate content. This will generally apply only to static content such as images or pdfs.  
 
 ## Detailed Documentation
 
