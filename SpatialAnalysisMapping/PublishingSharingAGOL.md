@@ -8,7 +8,7 @@
     - [Create Working Groups](#create-working-groups)
     - [Create Broadcast Groups](#create-broadcast-groups)
 - [Publishing draft or intermediate content to Internal or External Audiences](#publishing-draft-or-intermediate-content-to-internal-or-external-audiences)
-- [Publishing Curated Content to an External Audience](#publishing-curated-content-to-an-external-audience)
+- [Publishing Curated Content to an External Audience](#publishing-curated-content-to-an-external-audience-with-arcgis-online)
 - [Publishing Content to MTC's Open Data Portal](#publishing-content-to-mtcs-open-data-portal)
 
 ## Creating Groups 
