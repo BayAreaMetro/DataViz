@@ -10,14 +10,14 @@ The table of contents below is an attempt to represent and classify spatial anal
 
 **Data and Content Management**
 
-  - [Publishing and Sharing Content with Portal](tbd)
-  - [Publishing and Sharing Content with AGOL](/PublishingSharingAGOL.md#publishing-and-sharing-content-with-ArcGIS-online)
+  - Publishing and Sharing Content with Portal
+  - [Publishing and Sharing Content with AGOL](PublishingSharingAGOL.md#publishing-and-sharing-content-with-ArcGIS-online)
 
 **Mapping and Cartography**
 
-  - [Getting Started - Mapping Software and Resources](https://github.com/BayAreaMetro/DataVizSOP/blob/master/SpatialAnalysisMapping/GettingStartedMappingSoftwareResources.md)
-  - [Map Creation](https://github.com/BayAreaMetro/DataVizSOP/blob/master/SpatialAnalysisMapping/MapCreation.md)
+  - [Getting Started - Mapping Software and Resources](GettingStartedMappingSoftwareResources.md)
+  - [Map Creation](MapCreation.md)
 
 **Technical Resources and Best Practices**
 
-  - [AGOL Technical Resources](https://github.com/BayAreaMetro/DataVizSOP/blob/master/SpatialAnalysisMapping/AGOLTechnicalResources.md)
+  - [AGOL Technical Resources](AGOLTechnicalResources.md)
