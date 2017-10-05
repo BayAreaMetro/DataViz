@@ -11,7 +11,7 @@ The table of contents below is an attempt to represent and classify spatial anal
 **Data and Content Management**
 
   - [Publishing and Sharing Content with Portal](tbd)
-  - [Publishing and Sharing Content with AGOL](https://github.com/BayAreaMetro/DataVizSOP/blob/master/SpatialAnalysisMapping/PublishingSharingAGOL.md#publishing-and-sharing-content-with-ArcGIS-online)
+  - [Publishing and Sharing Content with AGOL]/PublishingSharingAGOL.md#publishing-and-sharing-content-with-ArcGIS-online)
 
 **Mapping and Cartography**
 
