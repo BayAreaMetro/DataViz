@@ -2,7 +2,7 @@
 <a href="url"><img src="http://gis.mtc.ca.gov/mtcimages/mtcgisLogo.png" align="top" height="84" width="84" ></a>  
 
 # MTC Data and Visualization Unit
-Welcome to the landing page for DataViz Projects.  This site includes detailed Project Documentation, Best Practices & Standard Operating Procedures (SOPs) for all work conducted by the DataViz team at MTC.
+This site includes detailed Project Documentation, Best Practices & Standard Operating Procedures (SOPs) for all work conducted by the DataViz team at MTC.
 
 ## Project Documentation
 This section contains a catalog of projects conducted y the DataViz team, along with detailed documentation that contains the following information:
