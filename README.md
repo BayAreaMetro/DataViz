@@ -26,10 +26,10 @@ Click [here](https://github.com/BayAreaMetro/dv-project-templates#documentation)
 This section is intended to provide team members within the Data & Visualization group with step by step guidelines that should be followed when performing common tasks associated with technology resources implemented within the group.   
 
 **Best Practices are defined for 4 key areas of work within the unit**:  
-1. [Spatial Analysis & Mapping](https://bayareametro.github.io/DataVizSOP/SpatialAnalysisMapping/)
+1. [Spatial Analysis & Mapping](https://bayareametro.github.io/DataViz/SpatialAnalysisMapping/)
 2. Data Analysis & Visualization
 3. Web Development & System Architecture
-4. [Data Services](https://bayareametro.github.io/DataServices/)  
+4. [Data Services](https://bayareametro.github.io/DataViz/DataServices/)  
 
 **This document is a work in progress**
 
