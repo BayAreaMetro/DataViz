@@ -7,7 +7,7 @@
 - [Creating Groups](#creating-groups)
     - [Create Working Groups](#create-working-groups)
     - [Create Broadcast Groups](#create-broadcast-groups)
-- [Publishing draft or intermediate content to Internal or External Audiences with](#publishing-draft-or-intermediate-content-to-internal-or-external-audiences)
+- [Publishing Draft or Intermediate Content to Internal or External Audiences](#publishing-draft-or-intermediate-content-to-internal-or-external-audiences)
 - [Publishing Curated Content to an External Audience](#publishing-curated-content-to-an-external-audience)
 - [Publishing Content to MTC's Open Data Portal](#publishing-content-to-mtcs-open-data-portal)
 
