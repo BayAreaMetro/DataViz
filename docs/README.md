@@ -17,7 +17,7 @@ This section contains a catalog of projects conducted y the DataViz team, along 
 Click [here](https://github.com/BayAreaMetro/dv-project-templates#documentation) for a detailed explanation of the process we use to document our work.
 
 **Our Project Documentation is divided into the following 4 key areas of work within the unit**:
-1. [Spatial Analysis & Mapping](Spatial-Analysis-Mapping/Project-Documentation)
+1. [Spatial Analysis & Mapping](tree/master/Spatial-Analysis-Mapping)
 2. Data Analysis & Visualization
 3. Web Development & System Architecture
 4. Data Services
