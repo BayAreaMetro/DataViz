@@ -38,7 +38,7 @@ Broadcast Group – for sharing finished content with an identified audience (ev
 ### Web Layers
 
 1. Publish web layer to AGOL through ArcGIS Pro, following guide on [sharing with ArcGIS Pro](AGOL-Technical-Resources.md#publishing-web-layers-to-agol-with-arcgis-pro)
-2. Ensure web map meets minimum basic documentation requirements for draft content. See [basic documentation requirements](SpatialAnalysisMapping/Documentation.md#basic-documentation) 
+2. Ensure web map meets minimum basic documentation requirements for draft content. See [basic documentation requirements](Documentation.md#basic-documentation) 
     - Name, summary, and tag field are required to be completed before you can publishing to AGOL from ArcGIS Pro.
 3. Select sharing options:  
     - To share with **only** a select group of stakeholders, share content to a **working group only**. Don't share with **organization** or **public**. If an appropriate working group does not exist, create one following guidelines for [creating working groups](#create-working-group) 
