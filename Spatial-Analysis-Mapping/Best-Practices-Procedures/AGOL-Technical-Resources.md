@@ -48,5 +48,11 @@ The following link provides an introduction to sharing packages, which is a gene
 [Publish Packages to AGOL with ArcGIS Pro](http://pro.arcgis.com/en/pro-app/help/sharing/overview/introduction-to-sharing-packages.htm
 )
 
+### Recalculate Feature Class Extent 
+
+A feature class has a spatial extent that is based upon all the coordinates within the feature class. This spatial extent is used when adding a feature class to a map in order to recenter and display all the features within. Rather than examining every feature in the feature class each time the feature class is added to a map (a potentially long process), a feature class has an extent property containing the last known spatial extent. However, this extent property is not always updated when features within the feature class are edited. This means that the values in the extent property might not contain the actual spatial extent of the features. Executing this tool reads all the features and updates the extent property.
+
+[Recalculate Feature Class Extent with ArcGIS Pro](http://pro.arcgis.com/en/pro-app/tool-reference/data-management/recalculate-feature-class-extent.htm)
+
 
 
