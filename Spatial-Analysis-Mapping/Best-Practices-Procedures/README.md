@@ -11,13 +11,13 @@ The table of contents below is an attempt to represent and classify spatial anal
 **Data and Content Management**
 
   - Publishing and Sharing Content with Portal
-  - [Publishing and Sharing Content with AGOL](/Publishing-Sharing-AGOL.md)
+  - [Publishing and Sharing Content with AGOL](Publishing-Sharing-AGOL.md)
 
 **Mapping and Cartography**
 
-  - [Getting Started - Mapping Software and Resources](/Getting-Started-Mapping-Software-Resources.md)
-  - [Map Creation](/Map-Creation.md)
+  - [Getting Started - Mapping Software and Resources](Getting-Started-Mapping-Software-Resources.md)
+  - [Map Creation](Map-Creation.md)
 
 **Technical Resources and Best Practices**
 
-  - [AGOL Technical Resources](/AGOL-Technical-Resources.md)
+  - [AGOL Technical Resources](AGOL-Technical-Resources.md)
