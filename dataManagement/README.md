@@ -1,5 +1,3 @@
-<a href="url"><img src="http://gis.mtc.ca.gov/mtcimages/mtcgisLogo.png" align="top" height="84" width="84" ></a>  
-
 # Spatial Data/Resource Management for the MTC Integrated Planning Section
 This site contains documentation on policy, procedures, and scripts related to the management of the Planning Section enterprise database, MTC Data Portal, and public ArcGIS Online/Open Data resources.
 
