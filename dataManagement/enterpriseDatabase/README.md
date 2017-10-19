@@ -15,4 +15,4 @@ The main difference between the enterprise database and Portal is access. Direct
 - [County IDs](doc/standards_County.md)
 
 ## Database Inventory
-- Data Inventory (Excel file, clicking link will give the options to either save the file or view/open in external application)
+- [Data Inventory](https://mtcdrive.box.com/s/3iqwy56hszbcoydmgr488ea5isxokezj) (Excel file, clicking link will give the options to either save the file or view/open in external application)
