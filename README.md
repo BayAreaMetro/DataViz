@@ -18,7 +18,7 @@ Click [here](https://github.com/BayAreaMetro/dv-project-templates#documentation)
 
 **Our Project Documentation is divided into the following 4 key areas of work within the unit**:
 1. [Spatial Analysis & Mapping](https://bayareametro.github.io/Spatial-Analysis-Mapping-Projects/Project-Documentation/)
-2. Data Analysis & Visualization
+2. [Data Analysis & Visualization](https://bayareametro.github.io/Data-And-Visualization-Projects/)
 3. Web Development & System Architecture
 4. Data Services
 
