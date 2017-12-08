@@ -29,7 +29,7 @@ This section is intended to provide team members within the Data & Visualization
 1. [Spatial Analysis & Mapping](https://bayareametro.github.io/Spatial-Analysis-Mapping-Projects//Best-Practices-Procedures/)
 2. Data Analysis & Visualization
 3. Web Development & System Architecture
-4. [Data Services](https://bayareametro.github.io/DataViz/DataServices/)  
+4. [Data Services](https://bayareametro.github.io/DataServices/)
 
 **This document is a work in progress**
 
