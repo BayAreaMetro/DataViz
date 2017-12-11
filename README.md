@@ -20,7 +20,7 @@ Click [here](https://github.com/BayAreaMetro/dv-project-templates#documentation)
 1. [Spatial Analysis & Mapping](https://bayareametro.github.io/Spatial-Analysis-Mapping-Projects/Project-Documentation/)
 2. [Data Analysis & Visualization](https://bayareametro.github.io/Data-And-Visualization-Projects/)
 3. Web Development & System Architecture
-4. [Data Services](https://bayareametro.github.io/DataServices/Project-Documentation/README.md)
+4. [Data Services](https://bayareametro.github.io/DataServices/Project-Documentation/)
 
 ## Best Practices and Procedures
 This section is intended to provide team members within the Data & Visualization group with step by step guidelines that should be followed when performing common tasks associated with technology resources implemented within the group.   
